@@ -44,9 +44,9 @@ alarm_set(1, 60);
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 7D719F2F
-/// @DnDArgument : "expr" "75"
+/// @DnDArgument : "expr" "150"
 /// @DnDArgument : "var" "ENNEMY_SCORE"
-ENNEMY_SCORE = 75;
+ENNEMY_SCORE = 150;
 
 /// @DnDAction : YoYo Games.Instances.Set_Alarm
 /// @DnDVersion : 1

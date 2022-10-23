@@ -1,10 +1,3 @@
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 0C9CB163
-/// @DnDArgument : "expr" "1"
-/// @DnDArgument : "var" "fireball_life"
-fireball_life = 1;
-
 /// @DnDAction : YoYo Games.Instances.Sprite_Rotate
 /// @DnDVersion : 1
 /// @DnDHash : 58ECFDC9

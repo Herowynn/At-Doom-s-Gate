@@ -23,11 +23,11 @@ alarm_set(0, 6);
 /// @DnDVersion : 1
 /// @DnDHash : 6DADBEC9
 /// @DnDApplyTo : {obj_player_green}
-/// @DnDArgument : "score" "-100"
+/// @DnDArgument : "score" "-obj_player_green/4"
 /// @DnDArgument : "score_relative" "1"
 with(obj_player_green) {
 if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-__dnd_score += real(-100);
+__dnd_score += real(-obj_player_green/4);
 }
 
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
@@ -47,11 +47,11 @@ if(__dnd_health == 0)
 	/// @DnDHash : 62F234A1
 	/// @DnDApplyTo : {obj_player_green}
 	/// @DnDParent : 2E28A114
-	/// @DnDArgument : "score" "-500"
+	/// @DnDArgument : "score" "-obj_player_green/2"
 	/// @DnDArgument : "score_relative" "1"
 	with(obj_player_green) {
 	if(!variable_instance_exists(id, "__dnd_score")) __dnd_score = 0;
-	__dnd_score += real(-500);
+	__dnd_score += real(-obj_player_green/2);
 	}
 
 	/// @DnDAction : YoYo Games.Instances.Destroy_Instance
