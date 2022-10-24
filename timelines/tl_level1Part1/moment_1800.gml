@@ -1,3 +1,17 @@
+/// @DnDAction : YoYo Games.Audio.Pause_Audio
+/// @DnDVersion : 1
+/// @DnDHash : 69F26DDD
+/// @DnDArgument : "sound" "Mick_Gordon___08__Flesh___Metal"
+/// @DnDSaveInfo : "sound" "Mick_Gordon___08__Flesh___Metal"
+audio_pause_sound(Mick_Gordon___08__Flesh___Metal);
+
+/// @DnDAction : YoYo Games.Audio.Play_Audio
+/// @DnDVersion : 1.1
+/// @DnDHash : 6AC220F8
+/// @DnDArgument : "soundid" "Mick_Gordon___02__Rip___Tear"
+/// @DnDSaveInfo : "soundid" "Mick_Gordon___02__Rip___Tear"
+audio_play_sound(Mick_Gordon___02__Rip___Tear, 0, 0, 1.0, undefined, 1.0);
+
 /// @DnDAction : YoYo Games.Instances.Destroy_Instance
 /// @DnDVersion : 1
 /// @DnDHash : 637FB972

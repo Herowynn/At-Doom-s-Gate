@@ -1,11 +1,3 @@
-/// @DnDAction : YoYo Games.Audio.Play_Audio
-/// @DnDVersion : 1.1
-/// @DnDHash : 22371B3A
-/// @DnDArgument : "soundid" "Mick_Gordon___02__Rip___Tear"
-/// @DnDArgument : "loop" "1"
-/// @DnDSaveInfo : "soundid" "Mick_Gordon___02__Rip___Tear"
-audio_play_sound(Mick_Gordon___02__Rip___Tear, 0, 1, 1.0, undefined, 1.0);
-
 /// @DnDAction : YoYo Games.Instance Variables.Set_Health
 /// @DnDVersion : 1
 /// @DnDHash : 7BA51214

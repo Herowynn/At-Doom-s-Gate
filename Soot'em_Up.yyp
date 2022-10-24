@@ -32,8 +32,6 @@
     {"id":{"name":"obj_bullet_blue","path":"objects/obj_bullet_blue/obj_bullet_blue.yy",},"order":0,},
     {"id":{"name":"obj_bonus_shield","path":"objects/obj_bonus_shield/obj_bonus_shield.yy",},"order":3,},
     {"id":{"name":"spr_player_yellow_selection","path":"sprites/spr_player_yellow_selection/spr_player_yellow_selection.yy",},"order":3,},
-    {"id":{"name":"obj_music","path":"objects/obj_music/obj_music.yy",},"order":14,},
-    {"id":{"name":"Room6","path":"rooms/Room6/Room6.yy",},"order":6,},
     {"id":{"name":"obj_pop_managerPart2","path":"objects/obj_pop_managerPart2/obj_pop_managerPart2.yy",},"order":19,},
     {"id":{"name":"spr_bulletSpeed","path":"sprites/spr_bulletSpeed/spr_bulletSpeed.yy",},"order":1,},
     {"id":{"name":"spr_Attack","path":"sprites/spr_Attack/spr_Attack.yy",},"order":5,},
@@ -136,7 +134,6 @@
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"roomId":{"name":"GameOver","path":"rooms/GameOver/GameOver.yy",},},
     {"roomId":{"name":"BossWin","path":"rooms/BossWin/BossWin.yy",},},
-    {"roomId":{"name":"Room6","path":"rooms/Room6/Room6.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Chemins d'accès","folderPath":"folders/Chemins d'accès.yy","order":4,},

@@ -49,6 +49,7 @@
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":3,"eventType":2,"collisionObjectId":null,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_bossFireball","path":"objects/obj_bossFireball/obj_bossFireball.yy",},},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ennemy_bigbossPhase2","path":"objects/obj_ennemy_bigbossPhase2/obj_ennemy_bigbossPhase2.yy",},},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_ennemy_bigbossPhase1","path":"objects/obj_ennemy_bigbossPhase1/obj_ennemy_bigbossPhase1.yy",},},
   ],
   "properties": [],
   "overriddenProperties": [],

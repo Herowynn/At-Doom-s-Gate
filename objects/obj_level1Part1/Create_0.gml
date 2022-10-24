@@ -1,11 +1,3 @@
-/// @DnDAction : YoYo Games.Instances.Create_Instance
-/// @DnDVersion : 1
-/// @DnDHash : 1CD4603F
-/// @DnDArgument : "ypos" "10"
-/// @DnDArgument : "objectid" "obj_music"
-/// @DnDSaveInfo : "objectid" "obj_music"
-instance_create_layer(0, 10, "Instances", obj_music);
-
 /// @DnDAction : YoYo Games.Timelines.Set_Timeline
 /// @DnDVersion : 1
 /// @DnDHash : 6DCF99C0
